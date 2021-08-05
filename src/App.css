@@ -1,4 +1,77 @@
-.App {
+.root {
+  flex-grow: 1;
+}
+
+.btn-signin .btn-signup {
+  width: 100px;
+  height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +108,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
